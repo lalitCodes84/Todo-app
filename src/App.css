@@ -1,0 +1,51 @@
+*{
+  font-family: "Poppins", sans-serif;
+}
+
+header{
+  background-color: #222831;
+  text-align: center;
+}
+h1{
+  margin: 0;
+  padding: 5px;
+  border-bottom: 4px solid #76ABAE;
+  text-shadow: -1px 1px 0px white;
+  color: white;
+}
+form {
+  width: 35%;
+  margin: 5%;
+  background-color: #76ABAE;
+  padding: 20px;
+  height: fit-content;
+}
+input{
+  margin: 10px;
+  width: 80%;
+}
+.todoParent{
+  display: flex;
+  justify-content: center;
+}
+.taskContainer{
+  width: 55%;
+  margin: 5%;
+  background-color: white;
+  padding: 10px;
+  height: fit-content;
+}
+li{
+  border: 1px solid black;
+  padding-left: 3%;
+  list-style-type: none;
+  margin-bottom: 20px;
+  border-radius: 15% 0;
+}
+button{
+  width: 80%;
+  height: 40px;
+  color: white;
+  margin: 3%;
+  background-color: #31363F;
+}
