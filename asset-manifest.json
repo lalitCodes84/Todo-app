@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lalitCodes84/todo-app/static/css/main.68bdf8c0.css",
-    "main.js": "/lalitCodes84/todo-app/static/js/main.ce5bc984.js",
-    "index.html": "/lalitCodes84/todo-app/index.html",
-    "main.68bdf8c0.css.map": "/lalitCodes84/todo-app/static/css/main.68bdf8c0.css.map",
-    "main.ce5bc984.js.map": "/lalitCodes84/todo-app/static/js/main.ce5bc984.js.map"
+    "main.css": "/static/css/main.68bdf8c0.css",
+    "main.js": "/static/js/main.ce5bc984.js",
+    "index.html": "/index.html",
+    "main.68bdf8c0.css.map": "/static/css/main.68bdf8c0.css.map",
+    "main.ce5bc984.js.map": "/static/js/main.ce5bc984.js.map"
   },
   "entrypoints": [
     "static/css/main.68bdf8c0.css",
